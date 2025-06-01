@@ -32,7 +32,7 @@ start index.html  # Windows
 open index.html   # Mac
 xdg-open index.html  # Linux
 ```
-Project Structure
+```Project Structure
 text
 travel-website/
 │
@@ -45,6 +45,8 @@ travel-website/
 ├── index.html              # Main HTML file
 ├── README.md               # Project documentation
 └── LICENSE                 # MIT License
+```
+
 Technologies Used
 Technology	Purpose
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16"/> HTML5	Page structure and semantics
