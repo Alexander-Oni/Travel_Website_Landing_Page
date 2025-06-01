@@ -31,6 +31,7 @@ cd travel-website
 start index.html  # Windows
 open index.html   # Mac
 xdg-open index.html  # Linux
+```
 Project Structure
 text
 travel-website/
