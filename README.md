@@ -32,8 +32,9 @@ start index.html  # Windows
 open index.html   # Mac
 xdg-open index.html  # Linux
 ```
-```Project Structure
-text
+```
+Project Structure
+
 travel-website/
 │
 ├── assets/
@@ -46,12 +47,14 @@ travel-website/
 ├── README.md               # Project documentation
 └── LICENSE                 # MIT License
 ```
-
+```
 Technologies Used
 Technology	Purpose
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16"/> HTML5	Page structure and semantics
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16" height="16"/> CSS3	Styling and layout
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16" height="16"/> Figma	Design reference
+```
+```
 Learning Outcomes
 ✅ HTML Mastery:
 
@@ -76,7 +79,8 @@ Mobile-first approach
 Browser debugging
 
 Asset optimization
-
+```
+```
 Resources
 Original Figma Design
 
@@ -85,7 +89,8 @@ Unsplash for Images
 Font Awesome Icons
 
 MDN Web Docs - Reference for HTML/CSS
-
+```
+```
 Future Improvements
 
 - [ ] Add JavaScript interactivity
@@ -94,3 +99,4 @@ Future Improvements
 - [ ] Add form validation
 - [ ] Improve accessibility (ARIA)
 - [ ] Optimize loading performance
+```
