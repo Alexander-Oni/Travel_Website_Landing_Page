@@ -1,64 +1,93 @@
-# 🌴 Travel Website Landing Page (HTML/CSS Only)
+# 🌍 Travel Website - HTML/CSS Project
 
-![Project Status](https://img.shields.io/badge/Status-In%20Progress-blue) 
-![HTML5](https://img.shields.io/badge/HTML-5-orange)
-![CSS3](https://img.shields.io/badge/CSS-3-blue)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge)
 
-A responsive travel website landing page built with pure HTML and CSS as part of my frontend development learning journey.
+<img src="assets/images/preview.jpg" alt="Travel Website Preview" style="border-radius: 8px; max-width: 100%; height: auto; margin: 20px 0;">
 
-## ✨ Key Features
+A clean, responsive travel website landing page built with pure HTML and CSS. Designed as a learning project for mastering frontend fundamentals.
 
-- ✅ Fully responsive design (mobile, tablet, desktop)
-- ✅ Semantic HTML5 markup
-- ✅ Modern CSS techniques (Flexbox, Grid)
-- ✅ Smooth animations and transitions
-- ✅ Clean, well-documented code
+## ✨ Features
 
-## 🛠 Technologies Used
+- **Mobile-first** responsive design
+- Semantic **HTML5** markup
+- Modern **CSS Flexbox/Grid** layouts
+- Smooth **CSS transitions** and animations
+- **BEM methodology** for CSS naming
+- **Cross-browser** compatible
+- **Optimized** assets and images
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-</p>
+## 🚀 Installation
 
-## 🚀 Getting Started
-
-1. Clone the repository:
 ```bash
-git clone git@github.com:Alexander-Oni/Travel_Website_Landing_Page.git
-Open index.html in your browser
+# Clone the repository
+git clone https://github.com/your-username/travel-website.git
 
-📂 Project Structure
+# Navigate to project directory
+cd travel-website
+
+# Open in default browser
+start index.html  # Windows
+open index.html   # Mac
+xdg-open index.html  # Linux
+Project Structure
+text
 travel-website/
+│
 ├── assets/
 │   ├── css/
-│   │   └── style.css    # Main stylesheet
-│   └── images/          # All image assets
-├── index.html           # Main page
-└── README.md            # This file
-📚 What I Learned
-Proper semantic HTML structure
+│   │   └── style.css       # All CSS styles
+│   ├── images/             # Optimized images
+│   └── fonts/              # Custom fonts
+│
+├── index.html              # Main HTML file
+├── README.md               # Project documentation
+└── LICENSE                 # MIT License
+Technologies Used
+Technology	Purpose
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16"/> HTML5	Page structure and semantics
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16" height="16"/> CSS3	Styling and layout
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16" height="16"/> Figma	Design reference
+Learning Outcomes
+✅ HTML Mastery:
 
-Responsive design with media queries
+Semantic structure
 
-Flexbox and Grid layout techniques
+Accessibility basics
 
-CSS hover effects and animations
+Form elements
 
-Image optimization for web
+✅ CSS Skills:
 
-🔗 Credits
-Figma Design Template
+Flexbox/Grid layouts
 
-Icons by Font Awesome
+Responsive design
 
-Images from Unsplash
+Animation techniques
 
-📝 Roadmap
-Add JavaScript interactivity
+✅ Workflow:
 
-Implement responsive navigation menu
+Mobile-first approach
 
-Create booking form section
+Browser debugging
 
-Optimize performance
+Asset optimization
+
+Resources
+Original Figma Design
+
+Unsplash for Images
+
+Font Awesome Icons
+
+MDN Web Docs - Reference for HTML/CSS
+
+Future Improvements
+
+- [ ] Add JavaScript interactivity
+- [ ] Implement dark mode toggle
+- [ ] Create multi-page navigation
+- [ ] Add form validation
+- [ ] Improve accessibility (ARIA)
+- [ ] Optimize loading performance
